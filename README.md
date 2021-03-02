@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-MAG-MSI--B550M-MORTAR-WIFI
+# Hackintosh-Opencore-MAG(MSI)--B550M-MORTAR-WIFI-EFI
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
