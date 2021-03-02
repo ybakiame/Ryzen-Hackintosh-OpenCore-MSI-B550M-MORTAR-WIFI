@@ -1,0 +1,2 @@
+# Hackintosh-Opencore-MAG-MSI--B550M-MORTAR-WIFI
+微星B550M MORTAR WIFI  EFI
