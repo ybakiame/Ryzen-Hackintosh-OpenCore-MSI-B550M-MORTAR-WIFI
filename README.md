@@ -8,6 +8,10 @@
 
 > 0.6.6正式版
 
+### Mac OS版本
+
+> macOS Big Sur 11.2.1
+
 ## Specification
 
 | **Component**    | **Model**                                 |
