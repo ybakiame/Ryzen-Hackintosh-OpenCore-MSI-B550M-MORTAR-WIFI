@@ -4,9 +4,9 @@
 
 ![MyOS](Pictures/MyOS.png)
 
-### OpenCore 版本 : 0.6.6正式版
+### OpenCore 版本 : 0.6.7正式版
 
-### MacOS 版本 ：11.2.1
+### MacOS 版本 ：11.2.2
 
 ### SMBIOS : iMacPro1,1
 
@@ -32,5 +32,5 @@
 - Wi-Fi
 - Bluetooth
 
-
+PS：使用时请使用GenSMBIOS重新生成三码
 
