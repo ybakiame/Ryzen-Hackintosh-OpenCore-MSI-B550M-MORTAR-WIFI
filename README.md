@@ -8,7 +8,7 @@
 
 ### MacOS 版本 ：11.2.1
 
-### SMBIOS : MacPro7,1
+### SMBIOS : iMacPro1,1
 
 ## Specification
 
@@ -23,9 +23,6 @@
 | WiFi & Bluetooth | Intel WiFi 6 AX200                                |
 | OS Disk(nvme)    | kioxia/铠侠固态硬盘1t RC10                        |
 
-PS：机型为 MacPro7,1 会出现以下情况，介意请将机型改为iMacPro1,1
-
-![RAM-issu](Pictures/RAM-issu.png)
 
 ## What works
 
