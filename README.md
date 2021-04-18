@@ -32,4 +32,4 @@
 - Wi-Fi
 - Bluetooth
 
-PS：使用时请使用任意重新生成三码
+PS：使用时请使用OpenCore Configurator 、 OC Auxiliary等工具重新生成三码
