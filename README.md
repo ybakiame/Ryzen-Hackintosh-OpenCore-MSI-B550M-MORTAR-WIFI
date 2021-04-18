@@ -1,4 +1,4 @@
-# Hackintosh-Opencore-MAG-MSI--B550M-MORTAR-WIFI
+#  Hackintosh-Opencore-MAG-MSI--B550M-MORTAR-WIFI
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
@@ -6,7 +6,7 @@
 
 ### OpenCore 版本 : 0.6.7正式版
 
-### MacOS 版本 ：11.2.2
+### MacOS 版本 ：11.3 Beta
 
 ### SMBIOS : iMacPro1,1
 
@@ -32,5 +32,4 @@
 - Wi-Fi
 - Bluetooth
 
-PS：使用时请使用GenSMBIOS重新生成三码
-
+PS：使用时请使用任意重新生成三码
