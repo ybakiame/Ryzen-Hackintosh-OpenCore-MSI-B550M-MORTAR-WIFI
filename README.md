@@ -4,7 +4,7 @@
 
 ![MyOS](Pictures/MyOS.png)
 
-### OpenCore 版本 : 0.6.8正式版
+### OpenCore 版本 : 0.6.7正式版
 
 ### MacOS 版本 ：11.3 Beta
 
