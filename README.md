@@ -28,7 +28,9 @@
 
 - Audio (`alcid=11`)
 - Ethernet
+
 ![Ethernet](Pictures/Ethernet.png)
+
 - USB
 - Wi-Fi
 - Bluetooth
