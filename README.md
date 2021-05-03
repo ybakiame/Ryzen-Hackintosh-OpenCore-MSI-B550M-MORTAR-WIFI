@@ -2,7 +2,7 @@
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
-![MyOS](Pictures/MyOS.png)
+![MyOS](Pictures/myNewOS.png)
 
 ### OpenCore 版本 : 0.6.8正式版
 
@@ -34,5 +34,13 @@
 - USB
 - Wi-Fi
 - Bluetooth
+
+使用`RestrictEvents.text`修改处理器显示型号
+
+-   `revcpu=value`启用（`1`，非Intel默认值）/禁用（`0`，Intel默认值）更多请参考
+
+    [RestrictEvents]: https://github.com/acidanthera/RestrictEvents
+
+    
 
 PS：使用时请使用OpenCore Configurator 、 OC Auxiliary等工具重新生成三码
