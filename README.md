@@ -27,7 +27,7 @@
 ## What works
 
 - Audio (`alcid=11`)
-- Ethernet
+- Ethernet([LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet))
 
 ![Ethernet](Pictures/Ethernet.png)
 
