@@ -37,9 +37,7 @@
 
 使用`RestrictEvents.kext`修改处理器显示型号
 
--   `revcpu=value`启用（`1`，非Intel默认值）/禁用（`0`，Intel默认值）更多请参考
-
-    [RestrictEvents]: https://github.com/acidanthera/RestrictEvents
+-   `revcpu=value`启用（`1`，非Intel默认值）/禁用（`0`，Intel默认值）更多请参考[RestrictEvents](https://github.com/acidanthera/RestrictEvents)
 
     
 
