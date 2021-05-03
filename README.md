@@ -27,13 +27,11 @@
 ## What works
 
 - Audio (`alcid=11`)
-- Ethernet([LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet))
-
-![Ethernet](Pictures/Ethernet.png)
+- Ethernet（[LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)）
 
 - USB
-- Wi-Fi
-- Bluetooth
+- Wi-Fi（[itlwm](https://github.com/OpenIntelWireless/itlwm)）
+- Bluetooth（[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)）
 
 使用`RestrictEvents.kext`修改处理器显示型号
 
