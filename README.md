@@ -41,4 +41,4 @@
 
     
 
-PS：使用时请使用OpenCore Configurator 、 OC Auxiliary等工具重新生成三码
+PS：使用时请使用[OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 、 [OC Auxiliary](https://github.com/ic005k/QtOpenCoreConfig)、[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)等工具重新生成三码
