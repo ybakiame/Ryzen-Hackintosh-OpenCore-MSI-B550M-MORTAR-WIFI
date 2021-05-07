@@ -2,11 +2,11 @@
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
-![MyOS](Pictures/myNewOS.png)
+![MyOS](Pictures/myOS.png)
 
-### OpenCore 版本 : 0.6.8正式版
+### OpenCore 版本 : 0.6.9正式版
 
-### MacOS 版本 ：11.3 Beta
+### MacOS 版本 ：11.4 Beta
 
 ### SMBIOS : iMacPro1,1
 
