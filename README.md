@@ -18,7 +18,7 @@
 | Motherboard      | 微星(MSI)MAG B550M MORTAR WIFI                               |
 | RAM              | 金士顿 (Kingston) 16GB DDR4 2400                             |
 | Audio Chipset    | ALC 1200                                                     |
-| GPU              | 讯景（XFX）RX 590 8G 黑狼版(已刷Sapphire vbios(注意根据自生颗粒进行选择)) |
+| GPU              | 讯景（XFX）RX 590 8G 黑狼版(已刷Sapphire vbios *根据自身颗粒进行选择*) |
 | Ethernet         | RTL8125B 2.5GbE                                              |
 | WiFi & Bluetooth | Intel WiFi 6 AX200                                           |
 | OS Disk(nvme)    | kioxia/铠侠固态硬盘1t RC10                                   |
