@@ -4,11 +4,11 @@
 
 ![MyOS](Pictures/myOS.png)
 
-### OpenCore 版本 : 0.6.9正式版
+### OpenCore 版本 : 0.7.0正式版
 
-### MacOS 版本 ：11.4 Beta
+### MacOS 版本 ：11.5 Beta
 
-### SMBIOS : iMacPro1,1
+### SMBIOS : MacPro7,1
 
 ## Specification
 
