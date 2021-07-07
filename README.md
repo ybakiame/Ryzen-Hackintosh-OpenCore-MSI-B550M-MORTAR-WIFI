@@ -4,9 +4,9 @@
 
 ![MyOS](Pictures/myOS.png)
 
-### OpenCore 版本 : 0.7.0正式版
+### OpenCore 版本 : 0.7.1正式版
 
-### MacOS 版本 ：11.5 Beta
+### MacOS 版本 ：12.0 Beta版(21A5248p)
 
 ### SMBIOS : MacPro7,1
 
@@ -23,7 +23,6 @@
 | WiFi & Bluetooth | Intel WiFi 6 AX200                                           |
 | OS Disk(nvme)    | kioxia/铠侠固态硬盘1t RC10                                   |
 
-
 ## What works
 
 - Audio (`alcid=11`)
@@ -31,7 +30,7 @@
 
 - USB
 - Wi-Fi（[itlwm](https://github.com/OpenIntelWireless/itlwm)）
-- Bluetooth（[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)）
+- Bluetooth（[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)）[macOS Monterey additional steps](https://openintelwireless.github.io/IntelBluetoothFirmware/FAQ.html#what-additional-steps-should-i-do-to-make-bluetooth-work-on-macos-monterey)
 
 使用`RestrictEvents.kext`修改处理器显示型号
 
