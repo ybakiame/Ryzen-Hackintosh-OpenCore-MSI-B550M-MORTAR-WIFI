@@ -1,2 +1,3 @@
 # 忽略 .DS_Store 文件
 .DS_Store
+EFI/BOOT/.contentFlavour
