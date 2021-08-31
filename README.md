@@ -6,7 +6,9 @@
 
 ### OpenCore 版本 : 0.7.2正式版
 
-### MacOS 版本 ：12.0 Beta版(21A5248p)
+### MacOS 版本 ：12.0 Beta版(21A5304g)
+
+>    要启动Monterey beta3及以上版本，请将[MSI BIOS](https://cn.msi.com/Motherboard/support/MAG-B550M-MORTAR-WIFI#down-bios)版本降至`7C94v12`
 
 ### SMBIOS : MacPro7,1
 
