@@ -2,7 +2,7 @@
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
-![Big Sur](Pictures/Big Sur.png)
+![BigSur](Pictures/BigSur.png)
 
 ### OpenCore : 0.7.2 正式版
 
