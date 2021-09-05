@@ -4,9 +4,9 @@
 
 ![Big Sur](Pictures/Big Sur.png)
 
-### OpenCore 版本 : 0.7.2 正式版
+### OpenCore : 0.7.2 正式版
 
-### MacOS 版本 ：11.5.2 正式版
+### macOS ：11.5.2 正式版
 
 ### SMBIOS : MacPro7,1
 
