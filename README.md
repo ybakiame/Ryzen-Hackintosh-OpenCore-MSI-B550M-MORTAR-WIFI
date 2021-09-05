@@ -2,13 +2,11 @@
 
 微星(MSI)MAG B550M MORTAR WIFI迫击炮
 
-![MyOS](Pictures/myOS.png)
+![Big Sur](Pictures/Big Sur.png)
 
-### OpenCore 版本 : 0.7.2正式版
+### OpenCore 版本 : 0.7.2 正式版
 
-### MacOS 版本 ：12.0 Beta版(21A5304g)
-
->    要启动Monterey beta3及以上版本，请将[MSI BIOS](https://cn.msi.com/Motherboard/support/MAG-B550M-MORTAR-WIFI#down-bios)版本降至`7C94v12`
+### MacOS 版本 ：11.5.2 正式版
 
 ### SMBIOS : MacPro7,1
 
@@ -44,3 +42,9 @@
 2.  Edit the core count patch to match your CPU [read AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla/tree/master)
 
 PS：使用时请使用[OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) 、 [OC Auxiliary](https://github.com/ic005k/QtOpenCoreConfig)、[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)等工具重新生成三码
+
+
+
+>   要启动Monterey beta3及以上版本，请将[MSI BIOS](https://cn.msi.com/Motherboard/support/MAG-B550M-MORTAR-WIFI#down-bios)版本降至`7C94v12`
+>
+>   由于bios版本降低到1.2及以下后会导致windows无法正常使用WIFI和网卡，本EFI回归至Big Sur，等待后续更新。
