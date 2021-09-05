@@ -47,4 +47,4 @@ PS：使用时请使用[OpenCore Configurator](https://mackie100projects.altervi
 
 >   要启动Monterey beta3及以上版本，请将[MSI BIOS](https://cn.msi.com/Motherboard/support/MAG-B550M-MORTAR-WIFI#down-bios)版本降至`7C94v12`
 >
->   由于bios版本降低到1.2及以下后会导致windows无法正常使用WIFI和网卡，本EFI回归至Big Sur，等待后续更新。
+>   由于bios版本降低到1.2及以下后会导致windows无法正常使用WIFI和网卡，本EFI回到Big Sur，等待后续更新。
