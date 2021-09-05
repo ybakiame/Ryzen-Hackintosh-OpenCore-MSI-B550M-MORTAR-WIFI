@@ -6,14 +6,12 @@
 	<string>19H1217</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
-	<key>CFBundleExecutable</key>
-	<string>IntelBluetoothFirmware</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.zxystd.IntelBluetoothFirmware</string>
+	<string>com.zxystd.IntelBluetoothInjector</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>IntelBluetoothFirmware</string>
+	<string>IntelBluetoothInjector</string>
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
@@ -40,16 +38,14 @@
 	<string>11A420a</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>IntelBluetoothFirmware_0026</key>
+		<key>0026</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -57,16 +53,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_0032</key>
+		<key>0032</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -74,16 +68,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_3165</key>
+		<key>3165ac</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -91,16 +83,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_3168</key>
+		<key>3168</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -108,16 +98,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_726x</key>
+		<key>726x</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -125,16 +113,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_8265</key>
+		<key>8265</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -142,16 +128,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_926x</key>
+		<key>926x</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -159,16 +143,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_9560</key>
+		<key>9560</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -176,16 +158,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_ax200</key>
+		<key>ax200</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -193,16 +173,14 @@
 			<key>idVendor</key>
 			<integer>32903</integer>
 		</dict>
-		<key>IntelBluetoothFirmware_ax210</key>
+		<key>ax210</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
-			<string>com.zxystd.IntelBluetoothFirmware</string>
+			<string>com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOClass</key>
-			<string>IntelBluetoothFirmware</string>
-			<key>IOMatchCategory</key>
-			<string>IntelBluetoothFirmware</string>
+			<string>BroadcomBluetoothHostControllerUSBTransport</string>
 			<key>IOProbeScore</key>
-			<integer>4000</integer>
+			<integer>3000</integer>
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
@@ -214,17 +192,8 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.12</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2019 钟先耀. All rights reserved.</string>
-	<key>OSBundleLibraries</key>
-	<dict>
-		<key>com.apple.iokit.IOUSBHostFamily</key>
-		<string>1.2</string>
-		<key>com.apple.kpi.iokit</key>
-		<string>16.7</string>
-		<key>com.apple.kpi.libkern</key>
-		<string>16.7</string>
-		<key>com.apple.kpi.mach</key>
-		<string>16.7</string>
-	</dict>
+	<string>Copyright © 2020 钟先耀. All rights reserved.</string>
+	<key>OSBundleRequired</key>
+	<string>Root</string>
 </dict>
 </plist>
