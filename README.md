@@ -4,7 +4,7 @@
 
 ![BigSur](Pictures/BigSur.png)
 
-### OpenCore : 0.7.2 正式版
+### OpenCore : 0.7.3 正式版
 
 ### macOS ：11.5.2 正式版
 
