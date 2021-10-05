@@ -6,7 +6,7 @@
 
 ### OpenCore : 0.7.4 正式版
 
-### macOS ：11.5.1 正式版
+### macOS ：11.6.1 正式版
 
 ### SMBIOS : MacPro7,1
 
