@@ -18,7 +18,7 @@
 | Motherboard      | MSI(MAG) B550M MORTAR WIFI                |
 | RAM              | Kingston 16GB DDR4 2400                   |
 | Audio Chipset    | ALCS1200A                                 |
-| GPU              | XFX RX 590 8G 黑狼版 (已刷Sapphire vbios) |
+| GPU              | XFX RX 590 8G (All Polaris & Navi cards)  |
 | Ethernet         | RTL8125B 2.5GbE                           |
 | WiFi & Bluetooth | Intel WiFi 6 AX200                        |
 | OS Disk(nvme)    | kioxia RC10 1TB                           |
