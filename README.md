@@ -22,7 +22,6 @@
 | OS Disk(nvme)    | Kioxia RC10 1TB                          |
 
 ## What works
-**Make sure enable `Above 4g memory` and disable `Re-Size BAR Support` in BIOS.**
 
 - Audio (`alcid=11`)
 - Ethernet ([LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet))
