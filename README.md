@@ -46,19 +46,19 @@
    `Kernel -> Quirks -> ProvideCurrentCpuInfo`
 2. Edit the core count patch to match your CPU
 
-   [read AMD Vanilla OpenCore o](https://github.com/AMD-OSX/AMD_Vanilla/tree/master)r [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#amd-patches)
+   [AMD Vanilla OpenCore o](https://github.com/AMD-OSX/AMD_Vanilla/tree/master)r [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#amd-patches)
 
    > Find the three `algrey - Force cpuid_cores_per_package`
    >
    > - `kernel -> Patch -> 0  -> Replace` for macOS 10.13,10.14
-   >
-   >   `B8000000 0000` => `B8 <core count> 0000 0000`
    > - `kernel -> Patch -> 1  -> Replace` for macOS 10.15,11.0
-   >
-   >   `BA000000 0000` => `BA <core count> 0000 0000`
    > - `kernel -> Patch -> 2  -> Replace` for macOS 12.0
    >
-   >   `BA000000 0090` => `BA <core count> 0000 0090`
+   > ```
+   > B8000000 0000 => B8 <core count> 0000 0000
+   > BA000000 0000 => BA <core count> 0000 0000
+   > BA000000 0090 => BA <core count> 0000 0090
+   > ```
    >
    > | CoreCount | Hexadecimal |
    > | --------- | ----------- |
@@ -82,7 +82,7 @@ please use [OpenCore Configurator](https://mackie100projects.altervista.org/open
 
 ### BigSur
 
-If you are using BigSur you may need: 
+If you are using BigSur you may need:
 
 1. Bluetooth
 
