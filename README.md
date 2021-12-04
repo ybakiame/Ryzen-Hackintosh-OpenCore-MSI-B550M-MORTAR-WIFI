@@ -98,4 +98,4 @@ Others should be general
 
 ### Monterey
 
-Most MSI B550 motherboard need use the 7C94v12 version of the bios to start Monterey. Please test yourself according to your hardwarePlease test by yourself.
+Most MSI B550 motherboard need use the 7C94v12 version of the bios to start Monterey. Please test yourself according to your hardware.
