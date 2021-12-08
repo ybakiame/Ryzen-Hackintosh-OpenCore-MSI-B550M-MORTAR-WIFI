@@ -39,9 +39,17 @@
 - Wi-Fi
 
   [itlwm](https://github.com/OpenIntelWireless/itlwm)
+
+  AirportItlwm.kext set the `MaxKernel` field to `20.99.9` (BigSur)
+
+  AirportItlwm12.kext set the `MinKernel` field to `21.00.0` (Monterey)
 - Bluetooth
 
   [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
+  IntelBluetoothInjector.kext set the `MaxKernel` field to `20.99.9` (BigSur)
+
+  BlueToolFixup.kext set the `MinKernel` field to `21.00.0` (Monterey)
 
 ### NEW AMD Kernel Patches
 
@@ -83,22 +91,6 @@
    >
 
 please use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or  [OC Auxiliary](https://github.com/ic005k/QtOpenCoreConfig)  or  [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)  to generate yourself SMBIOS
-
-### BigSur
-
-If you are using BigSur you may need:
-
-1. Bluetooth
-
-   > - delete ``BlueToolFixup.kext``
-   > - add ``IntelBluetoothInjector.kext``
-   >
-2. Wi-Fi
-
-   > replace [AirportItlwm](https://github.com/OpenIntelWireless/itlwm) for BigSur
-   >
-
-Others should be general
 
 ### Monterey
 
