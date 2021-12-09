@@ -6,10 +6,6 @@
 
 **OpenCore : 0.7.6**
 
-启动菜单中无法显示重置nvram、安装磁盘等。调整 `ScanPolicy` 扫描策略、更换 `OpenHfsPlus.efi `和 `HfsPlus.efi `、更换不同bios测试均无效。
-
-可能和 `0.7.6` 中 `Fixed handling PCI device paths with logical units in ScanPolicy` 这一项更改有关。测试ing
-
 **macOS ：12.1 Beta**
 
 **SMBIOS : MacPro7,1**
