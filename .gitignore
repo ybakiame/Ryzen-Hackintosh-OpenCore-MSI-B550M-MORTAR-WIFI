@@ -1,2 +1,5 @@
 *.DS_Store
 *.contentFlavour
+*.idea
+*.vscode
+*.log
