@@ -4,9 +4,9 @@
 
 ![macOS](Pictures/macOS.png)
 
-**OpenCore : 0.7.6**
+**OpenCore : 0.8.1**
 
-**macOS ：12.1 Beta**
+**macOS ：11.6.7**
 
 **SMBIOS : MacPro7,1**
 
@@ -36,31 +36,35 @@
 
   [itlwm](https://github.com/OpenIntelWireless/itlwm)
 
-  AirportItlwm.kext set the `MaxKernel` field to `20.99.9` (BigSur)
+  AirportItlwm_BigSu.kext
 
-  AirportItlwm12.kext set the `MinKernel` field to `21.00.0` (Monterey)
 - Bluetooth
 
   [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 
   IntelBluetoothInjector.kext set the `MaxKernel` field to `20.99.9` (BigSur)
 
-  BlueToolFixup.kext set the `MinKernel` field to `21.00.0` (Monterey)
+  [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) set the `MinKernel` field to `21.00.0` (Monterey)
 
 ### NEW AMD Kernel Patches
 
 1. Enable `ProvideCurrentCpuInfo`
 
    `Kernel -> Quirks -> ProvideCurrentCpuInfo`
+   
 2. Edit the core count patch to match your CPU
 
-   [AMD Vanilla OpenCore o](https://github.com/AMD-OSX/AMD_Vanilla/tree/master)r [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#amd-patches)
+   [AMD Vanilla OpenCore](https://github.com/AMD-OSX/AMD_Vanilla/tree/master) or [OpenCore-Install-Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/monterey.html#amd-patches)
 
    > Find the three `algrey - Force cpuid_cores_per_package`
    >
    > - `kernel -> Patch -> 0  -> Replace` for macOS 10.13,10.14
+   >
    > - `kernel -> Patch -> 1  -> Replace` for macOS 10.15,11.0
+   >
    > - `kernel -> Patch -> 2  -> Replace` for macOS 12.0
+   >
+   >   
    >
    > ```
    > B8000000 0000 => B8 <core count> 0000 0000
@@ -91,3 +95,7 @@ please use [OpenCore Configurator](https://mackie100projects.altervista.org/open
 ### Monterey
 
 Most MSI B550 motherboard need use the 7C94v12 version of the bios to start Monterey. Please test yourself according to your hardware.
+
+### BIOS
+
+[AMD BIOS Settings](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings)
