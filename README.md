@@ -111,3 +111,5 @@ You can download it [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR
 ### Note
 
 Do not enable `SMCAMDProcessor.kext`, it will cause failure to start
+
+It takes **three times** to restart and enter the system
