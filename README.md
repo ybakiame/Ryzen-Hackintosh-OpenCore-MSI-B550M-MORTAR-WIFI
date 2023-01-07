@@ -4,9 +4,9 @@
 
 ![macOS](Pictures/macOS.png)
 
-**OpenCore : 0.8.6**
+**OpenCore : 0.8.8**
 
-**macOS ：13.0.1**
+**macOS ：13.1**
 
 **SMBIOS : MacPro7,1**
 
