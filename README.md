@@ -34,6 +34,10 @@
   [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
 
 - USB
+  
+  [USBToolBox](https://github.com/USBToolBox/toolhttps://github.com/USBToolBox/tool) (Include `USBToolBox.kext` and `UTBMap.kext`)
+  
+  You can use it to generate your own usb configuration information
 
 - Wi-Fi
   
