@@ -4,9 +4,9 @@
 
 ![macOS](Pictures/macOS.png)
 
-**OpenCore : 0.8.8**
+**OpenCore : 0.9.0**
 
-**macOS ：13.1**
+**macOS ：13.2.1**
 
 **SMBIOS : MacPro7,1**
 
@@ -111,7 +111,3 @@ My bios version is `7C94v1D`
 You can download it [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR-WIFI/support#bios)
 
 [AMD BIOS Settings](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings)
-
-### Note
-
-Do not enable `SMCAMDProcessor.kext`, it will cause failure to start
