@@ -4,9 +4,9 @@
 
 ![macOS](Pictures/macOS.png)
 
-**OpenCore : 0.9.0**
+**OpenCore : 0.9.2**
 
-**macOS ：13.2.1**
+**macOS ：13.4**
 
 **SMBIOS : MacPro7,1**
 
@@ -37,7 +37,7 @@
   
   [USBToolBox](https://github.com/USBToolBox/toolhttps://github.com/USBToolBox/tool) (Include `USBToolBox.kext` and `UTBMap.kext`)
   
-  You can use it to generate your own usb configuration information
+  If you have USB problems, You can use it to generate your own usb configuration information
 
 - Wi-Fi
   
@@ -104,10 +104,18 @@ Now you can skip **Monterey** and upgrade to **Ventura**
 
 it works for me
 
+### Sonoma
+
+You need to disable `NVMeFix.kext` to start **Sonoma**
+
+![macOS Sonnoma](Pictures/macOS-Sonoma.png)
+
+**Be careful that some kext do not work**
+
 ### BIOS
 
-My bios version is `7C94v1D`
-
-You can download it [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR-WIFI/support#bios)
+My bios version is **[7C94v1F](https://download.msi.com/bos_exe/mb/7C94v1F.zip)**. You can download bios [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR-WIFI/support#bios)
 
 [AMD BIOS Settings](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings)
+
+I use `npci=0x3000` instead of enable **above 4G**
