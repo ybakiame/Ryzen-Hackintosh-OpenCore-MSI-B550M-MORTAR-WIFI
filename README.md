@@ -41,7 +41,7 @@
 
 - Wi-Fi
   
-  [itlwm](https://github.com/OpenIntelWireless/itlwm)
+  [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
 
 - Bluetooth
   
@@ -49,7 +49,7 @@
   
   IntelBluetoothInjector.kext set the `MaxKernel` field to `20.99.9` (BigSur)
   
-  [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) and [IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) set the `MinKernel` field to `21.00.0` (Monterey)
+  [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) and [IntelBTPatcher.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) set the `MinKernel` field to `21.00.0` (Monterey or newer)
 
 ### NEW AMD Kernel Patches
 
