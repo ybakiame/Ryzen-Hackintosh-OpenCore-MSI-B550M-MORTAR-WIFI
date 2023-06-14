@@ -106,8 +106,6 @@ it works for me
 
 ### Sonoma
 
-You need to disable `NVMeFix.kext` to start **Sonoma**
-
 ![macOS Sonnoma](Pictures/macOS-Sonoma.png)
 
 **Be careful that some kext do not work**
