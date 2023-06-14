@@ -16,7 +16,7 @@
 | ---------------- | -------------------------- |
 | CPU              | AMD R7 3700X               |
 | Motherboard      | MSI(MAG) B550M MORTAR WIFI |
-| RAM              | Kingston 16GB DDR4 2400    |
+| RAM              | KINGBANK 32GB(16G×2) DDR4 3600 CJR C18 |
 | Audio Chipset    | ALCS1200A                  |
 | GPU              | XFX RX 590 8G              |
 | Ethernet         | RTL8125B 2.5GbE            |
