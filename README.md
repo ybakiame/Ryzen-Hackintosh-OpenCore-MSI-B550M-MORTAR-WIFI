@@ -4,9 +4,9 @@
 
 ![macOS](Pictures/macOS.png)
 
-**OpenCore : 0.9.2**
+**OpenCore : 0.9.7**
 
-**macOS ：13.4**
+**macOS ：14.2.1**
 
 **SMBIOS : MacPro7,1**
 
@@ -94,25 +94,13 @@
 
 please use [OpenCore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) or  [OC Auxiliary](https://github.com/ic005k/QtOpenCoreConfig)  or  [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)  to generate yourself SMBIOS
 
-### Monterey
-
-Most MSI B550 motherboard need use the 7C94v12 version of the bios to start Monterey. Please test yourself according to your hardware.
-
-### Ventura
-
-Now you can skip **Monterey** and upgrade to **Ventura**
-
-it works for me
-
-### Sonoma
-
-![macOS Sonnoma](Pictures/macOS-Sonoma.png)
-
-**Be careful that some kext do not work**
-
 ### BIOS
 
-My bios version is **[7C94v1F](https://download.msi.com/bos_exe/mb/7C94v1F.zip)**. You can download bios [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR-WIFI/support#bios)
+My bios version is **[7C94v1E](https://download.msi.com/bos_exe/mb/7C94v1E.zip)**, With this bios you just need to disable secure boot. 
+
+You can download all bios [here](https://www.msicn.com.cn/Motherboard/MAG-B550M-MORTAR-WIFI/support#bios).
+
+Do not use biso after `7C94v1E`, `above 4G` is turned on by default and cannot be changed. The system will fail to boot.
 
 [AMD BIOS Settings](https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html#amd-bios-settings)
 
