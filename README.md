@@ -29,7 +29,7 @@
   
   [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=11 `)
 
-- Ethernet
+- Ethernet (**unavailable**)
   
   [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
 
