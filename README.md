@@ -29,17 +29,17 @@
   
   [AppleALC](https://github.com/acidanthera/AppleALC) ( `alcid=11 `)
 
-- Ethernet (**unavailable**)
+- Ethernet
   
   [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
 
 - USB
   
-  [USBToolBox](https://github.com/USBToolBox/toolhttps://github.com/USBToolBox/tool) (Include `USBToolBox.kext` and `UTBMap.kext`)
+  [USBToolBox](https://github.com/USBToolBox/toolhttps://github.com/USBToolBox/tool) (Need include `USBToolBox.kext` and `UTBMap.kext`)
   
   If you have USB problems, You can use it to generate your own usb configuration information
 
-- Wi-Fi
+- Wi-Fi (**unavailable**)
   
   [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
 
